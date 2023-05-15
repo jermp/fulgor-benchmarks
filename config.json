@@ -1,0 +1,19 @@
+{
+    "file_path":"/home/noor/pseudoaligner_paper/ENA2018-bacteria-661k-filenames",
+    "non_samp_path":"/mnt/scratch5/wabi2023/chr19.fa",
+    "out_fq_path":"/mnt/scratch5/wabi2023/simulated_datasets_100k",
+    "out_path":"/mnt/scratch4/noor/salmonella_50k",
+    "reads_per_reference":200,
+    "inp_file_exten":"norm",
+
+    "cuttlefish_json":"/mnt/scratch4/jf/wabi_2023/salmonella_50k/salmonella-50k.json",
+    "contig_map":"/mnt/scratch4/jf/wabi_2023/salmonella_50k/map_contig.txt",
+
+    "out_psa_path":"/mnt/scratch4/noor/mapping_output/salmonella_50k",
+    "psa_path":"/home/noor/pseudo_aligner/build/pseudoalign",
+    "cuttlefish_index_path":"/mnt/scratch4/jf/wabi_2023/salmonella_50k/salmonella-50k.canonical.hybrid.cc_index",
+    "eval_script_path":"/home/noor/pseudo_aligner/eval_scripts/evalulate_mappings.py",
+    "hybrid_thresh":0.8,
+
+    "guilio_ind":true
+}
